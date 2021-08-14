@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AtividadeMVC</string>
+    <string name="hint_nome">Digite o Nome</string>
+    <string name="nome_aluno">Nome aluno</string>
+    <string name="hint_nota1">Digite a nota 1</string>
+    <string name="nota1">Nota 1</string>
+    <string name="erro_nome">Nome invalido</string>
+    <string name="erro_idade">Idade invalida</string>
+    <string name="erro_nota">Nota invalida</string>
+    <string name="aluno">Aluno</string>
+    <string name="situacao">Situacao</string>
+    <string name="aprovado">Aprovado</string>
+    <string name="reprovado">Reprovado</string>
+    <string name="nota2">Nota 2</string>
+    <string name="hint_nota2">Digite a nota 2</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar_dados">Limpar Dados</string>
+    <string name="media">Media</string>
+</resources>

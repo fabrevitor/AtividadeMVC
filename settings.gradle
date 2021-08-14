@@ -1,0 +1,2 @@
+rootProject.name='AtividadeMVC'
+include ':app'
